@@ -43,7 +43,7 @@ public class Reader {
 
 
                     i.set(6, l * 200);
-                   //System.out.println(z.getKey() + " " + i);
+                   //System.out.println(z.getKey() +  " + i);
                 }
                 else if (b  == 4 || b == 5) {
                     double l = i.get(b)/(double)out[b];
